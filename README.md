@@ -1,0 +1,2 @@
+# Movie-Catalogue-2
+Submission  Anda sudah mempelajari salah satu aspek penting ketika mengembangkan sebuah aplikasi yaitu UI/UX. Untuk mempelajari modul berikutnya, Anda perlu mengirimkan proyek aplikasi dengan tema Movie Catalogue (UI/UX). Aplikasi Movie Catalogue (UI/UX) merupakan pengembangan dari aplikasi pada submission sebelumnya. Pada submission ini Anda diharuskan untuk menerapkan komponen - komponen UI/UX seperti Fragment, RecyclerView, ConstraintLayout, dsb.
